@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="12号机">
+    <serverData>
+      <paths name="12号机">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hdd/zhangchenbin/code/meta-learning" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
